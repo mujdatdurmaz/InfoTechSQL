@@ -123,7 +123,3 @@ SELECT sehir,COUNT(sehir) as Sayý FROM Musteriler
 GROUP BY sehir
 
 
-
-
-
-
